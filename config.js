@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "STARK-ALI~2Ix21bZT#bZDRPOVSXAQMQPjUWIqWbG5JizJxqcezWAv8hg41qwQ",
+SESSION_ID: process.env.SESSION_ID || "STARK-ALI~P0RkRTSL#8PSbx6gv_lg41-rGHdjYdFXWIlvu1Zh_CDRIm_diWx8",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
@@ -17,7 +17,7 @@ AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*Ꭿℒℒℰℕ ℐЅ ᏇᎯT�
 // set the auto reply massage on status reply  
 PREFIX: process.env.PREFIX || "*",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "ALI-MD",
+BOT_NAME: process.env.BOT_NAME || "A༙L༙LI༙-M༙D༙",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "MR ΛĿĿƐИ",
 // type sticker pack name 
@@ -49,7 +49,7 @@ DESCRIPTION: process.env.DESCRIPTION || "*© ᴘσωєʀє∂ ву ✞︎★Ꭿ�
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://cdn.ironman.my.id/i/2du3i5.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> HEY 👋 IM ALIVE NOW*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "𝕭𝕰𝕬𝕾𝕿 𝕸𝕺𝕯𝕰 𝕬𝕮𝕿𝕴𝖁𝕬𝕿𝕰𝕯 🔥🔥 𝕽𝖀𝕹 𝕱𝕺𝕽 𝖄𝕺𝖀𝕽 𝕷𝕴𝕱𝕰👀☠️",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -79,7 +79,7 @@ READ_CMD: process.env.READ_CMD || "true",
 // true if want mark commands as read 
 DEV: process.env.DEV || "254758443111",
 //replace with your whatsapp number        
-ANTI_VV: process.env.ANTI_VV || "false",
+ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", 
 // change it to 'same' if you want to resend deleted message in same chat 

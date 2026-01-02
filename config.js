@@ -5,7 +5,7 @@ const fs = require('fs'),
 global.session = "https://stark-md-pair.onrender.com";
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "ALI-MD~yQ9QzIQY#AI7cvSR3mHJSxnR_XIXyHqWHTs-ivDfL9W3x4XnNIqM", // Add sess Id here especially when deploying on panels else use app.json and .env file...
+    SESSION_ID: process.env.SESSION_ID || "ALI-MD~TY8DzRxB#c_Yy4IiWAPRo2WmAjh_kDtgk1cx-ttlos4hEdllPePg", // Add sess Id here especially when deploying on panels else use app.json and .env file...
     SUDO_NUMBERS: process.env.SUDO_NUMBERS || "254758443111", // Add multiple numbers with country codes without (+), separated by comma
     ANTI_DELETE: process.env.ANTI_DELETE || "true", // ✅ only ONE, default = true
     AUTO_STATUS_VIEWS: process.env.AUTO_STATUS_VIEWS || "false",

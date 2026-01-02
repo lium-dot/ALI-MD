@@ -10,13 +10,13 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your Session STARK-MD~ID here",
+      "description": "ALI-MD~TY8DzRxB#c_Yy4IiWAPRo2WmAjh_kDtgk1cx-ttlos4hEdllPePg",
       "value": "",
       "required": true
     },
     "SUDO_NUMBERS": {
       "description": "Add multiple numbers with country code without (+), separated by comma",
-      "value": "923199471258",
+      "value": "254758443111",
       "required": false
     },
     "ANTI_DELETE": {

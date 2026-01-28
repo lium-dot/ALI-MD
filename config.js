@@ -19,7 +19,7 @@ module.exports = {
     OWNER_NAME: process.env.OWNER_NAME || "G̸E̸N̸Z̸K̸E̸N̸Y̸A̸^᪲᪲᪲輪", // Custom name
     PACK_AUTHOR: process.env.PACK_AUTHOR || "G̸E̸N̸Z̸K̸E̸N̸Y̸A̸", // Custom
     PACK_NAME: process.env.PACK_NAME || "G̸E̸N̸Z̸K̸E̸N̸Y̸A̸",
-    PREFIX: process.env.PREFIX || ".",
+    PREFIX: process.env.PREFIX || "*",
     VERSION: process.env.VERSION || "7.0.0",
     ANTI_LINK: process.env.ANTI_LINK || "false", // true = kick, delete = delete, warn = warn
     ANTI_CALL: process.env.ANTI_CALL || "true",
